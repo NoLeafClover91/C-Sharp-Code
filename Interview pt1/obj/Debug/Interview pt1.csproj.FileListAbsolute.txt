@@ -1,0 +1,6 @@
+c:\users\cgrim\documents\visual studio 2015\Projects\Interview pt1\Interview pt1\bin\Debug\Interview pt1.exe.config
+c:\users\cgrim\documents\visual studio 2015\Projects\Interview pt1\Interview pt1\bin\Debug\Interview pt1.exe
+c:\users\cgrim\documents\visual studio 2015\Projects\Interview pt1\Interview pt1\bin\Debug\Interview pt1.pdb
+c:\users\cgrim\documents\visual studio 2015\Projects\Interview pt1\Interview pt1\obj\Debug\Interview pt1.csprojResolveAssemblyReference.cache
+c:\users\cgrim\documents\visual studio 2015\Projects\Interview pt1\Interview pt1\obj\Debug\Interview pt1.exe
+c:\users\cgrim\documents\visual studio 2015\Projects\Interview pt1\Interview pt1\obj\Debug\Interview pt1.pdb
